@@ -1,2 +1,1 @@
-# Yash
-Computer Engineer
+print("Hello")
